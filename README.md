@@ -21,14 +21,19 @@ El juego **no hace fallback a inglés**: dibuja esos textos en blanco. Por eso a
 
 El caso más visible es la **selección de base de datos** al empezar una partida: los dos botones salen completamente en blanco.
 
-<table>
-<tr><th>Sin el parche</th><th>Con el parche</th></tr>
-<tr><td><code>[          ]</code><br><code>[          ]</code></td><td><code>[ Estándar ]</code><br><code>[  Mundo   ]</code></td></tr>
-</table>
-
 ## La solución
 
 Este parche traduce los 2.434 textos y deja el juego **sin un solo hueco**.
+
+### Con el parche puesto
+
+Los dos botones que antes salían vacíos ahora dicen **Estándar** y **Mundo**:
+
+![Selección de base de datos en español](docs/base-de-datos.png)
+
+Y el menú principal, completo:
+
+![Menú principal en español](docs/menu-principal.jpg)
 
 ### Qué se tradujo
 
